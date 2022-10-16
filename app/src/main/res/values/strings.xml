@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewMenu</string>
+    <string name="menu">MENU</string>
+</resources>
